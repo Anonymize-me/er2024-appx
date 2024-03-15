@@ -1,7 +1,7 @@
 # On the Relationship of Complexity Metrics With Cognitive Load and Visual Behavior: A Multi-Granular Eye-Tracking Analysis
 ## Appendix
 
-This appendix contians supllementary material for the main paper
+This appendix contains supllementary material for the main paper
 
 ### Tree view
 [Root]  
