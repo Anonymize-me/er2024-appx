@@ -4,7 +4,7 @@
 This appendix contians supllementary material for the main paper
 
 ### Tree view
-&#02502 [Root]
+&#02502; [Root]
   &#0251c README.md
   &#0251c LICENSE
   &#0251c Appx - List of metrics.pdf
