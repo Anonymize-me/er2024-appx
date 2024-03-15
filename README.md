@@ -29,11 +29,11 @@ This appendix contains supllementary material for the related paper
 &#x2003;&#x2003;&#x02520; fine-grained_analysis_AoIs_over_time.All-simple.pdf  
 &#x2003;&#x2003;&#x02517; fine-grained_analysis_AoIs_over_time.All-simple.png  
 
-### Models & metrics
+### Models & process model metrics
 The **process models metrics** used in this work are listed in the file 'Appx - List of metrics.pdf'.  
 A high definition picture of each **process model** used in the experiment is available in the directory 'models-img'.  
 The **tasks** used in the experiment are detailed in the file 'Appx - Tasks.xlsx'.  
-The measure of each metric is computed in the file 'Appx - Measures (metrics applied to models).xlsx'.
+The **measure** of each metric is computed in the file 'Appx - Measures (metrics applied to models).xlsx'.
 
 ### Analysis
 The Python **notebooks** are available in the directory 'analysis'.  
