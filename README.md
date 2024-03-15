@@ -1,4 +1,4 @@
-# On the Relationship of Complexity Metrics With Cognitive Load and Visual Behavior: A Multi-Granular Eye-Tracking Analysis
+# Process Model Complexity Metrics, Cognitive Load and Visual Behavior: A Multi-Granular Eye-Tracking Analysis
 ## Appendix
 
 This appendix contains additional material for the related paper.
