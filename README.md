@@ -1,14 +1,14 @@
 # On the Relationship of Complexity Metrics With Cognitive Load and Visual Behavior: A Multi-Granular Eye-Tracking Analysis
 ## Appendix
 
-This appendix contains suplementary material for the related paper
+This appendix contains additional material for the related paper.
 
 ### Tree view
 [Root]  
 &#x02520; README.md  
 &#x02520; LICENSE  
 &#x02520; Appx - List of metrics.pdf  
-&#x02520; Appx - Tasks.xlsx  
+&#x02520; Appx - Tasks.pdf  
 &#x02520; Appx - Measures (metrics applied to models).xlsx  
 &#x02520; [analysis]  
 &#x02503;&#x2003;&#x02520; Deductive analysis (coarse-grained).pub.ipynb  
@@ -31,7 +31,7 @@ This appendix contains suplementary material for the related paper
 
 ### Models & process model metrics
 The **process models metrics** used in this work are listed in the file 'Appx - List of metrics.pdf'.  
-A high definition picture of each **process model** used in the experiment is available in the directory 'models-img'.  
+A high-resolution image of each **process model** used in the experiment is available in the directory 'models-img'.  
 The **tasks** used in the experiment are detailed in the file 'Appx - Tasks.xlsx'.  
 The **measure** of each metric is computed in the file 'Appx - Measures (metrics applied to models).xlsx'.
 
