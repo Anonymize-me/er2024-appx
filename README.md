@@ -36,5 +36,5 @@ The **tasks** used in the experiment are detailed in the file 'Appx - Tasks.xlsx
 The measure of each metric is computed in the file 'Appx - Measures (metrics applied to models).xlsx'.
 
 ### Analysis
-The Python notebooks are available in the directory 'analysis'.  
-The plots of visual behaviors for all participants are available in the directory 'AOIs_over_time-img'.  
+The Python **notebooks** are available in the directory 'analysis'.  
+The **plots** of visual behaviors for all participants are available in the directory 'AOIs_over_time-img'.  
