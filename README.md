@@ -29,8 +29,8 @@ This appendix contains additional material for the related paper.
 
 ### Models & process model metrics
 The **process models metrics** used in this work are listed in the file 'Appx - List of metrics.pdf'.  
-A high-resolution image of each **process model** used in the experiment is available in the directory 'models-img'.  
 The **tasks** used in the experiment are detailed in the file 'Appx - Tasks.pdf'.  
+A high-resolution image of each **process model** used in the experiment is available in the directory 'models-img'.  
 The **measures** computed for each metric are reported in the file 'Appx - Measures (metrics applied to models).pdf'.
 
 ### Analysis
